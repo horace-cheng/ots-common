@@ -15,4 +15,5 @@ For the visual_prompt, follow these requirements:
 - Reference the character's name and key visual traits (hair, clothing, build) from the Global Character Sheet.
 - Lighting/atmosphere in 2-4 words (e.g., "warm golden hour light", "dim candlelit room", "foggy morning mist").
 - Background should be simple (e.g., "a grassy field", "a wooden cabin interior", "a cobblestone street").
-- Write as a single flowing paragraph, 4-8 sentences, under 60 words."""
+- Write as a single flowing paragraph, 4-8 sentences, under 60 words.
+- CRITICAL — NO props, weapons, tools, or handheld items. The scene must contain ONLY the character, their clothing, and the simple background. If the narration strictly requires an object (e.g. a book, a lantern), mention it once briefly and do not describe it in detail. Otherwise, omit all objects entirely."""
