@@ -16,4 +16,6 @@ For the visual_prompt, follow these requirements:
 - Lighting/atmosphere in 2-4 words (e.g., "warm golden hour light", "dim candlelit room", "foggy morning mist").
 - Background should be simple (e.g., "a grassy field", "a wooden cabin interior", "a cobblestone street").
 - Write as a single flowing paragraph, 4-8 sentences, under 60 words.
-- CRITICAL — NO props, weapons, tools, or handheld items. The scene must contain ONLY the character, their clothing, and the simple background. If the narration strictly requires an object (e.g. a book, a lantern), mention it once briefly and do not describe it in detail. Otherwise, omit all objects entirely."""
+- CRITICAL — NO props, weapons, tools, or handheld items. The scene must contain ONLY the character, their clothing, and the simple background. If the narration strictly requires an object (e.g. a book, a lantern), describe it as a static visual element — the character is simply "holding" it, NEVER swinging, throwing, spinning, or using it in motion. Otherwise, omit all objects entirely.
+- The character's hands must be empty and visible, or resting naturally at their sides. No gripping, wielding, or manipulating objects.
+- No swinging, hitting, striking, throwing, catching, or spinning actions of any kind — these consistently produce distorted visuals."""
