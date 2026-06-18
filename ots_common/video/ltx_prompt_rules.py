@@ -16,6 +16,4 @@ For the visual_prompt, follow these requirements:
 - Lighting/atmosphere in 2-4 words (e.g., "warm golden hour light", "dim candlelit room", "foggy morning mist").
 - Background should be simple (e.g., "a grassy field", "a wooden cabin interior", "a cobblestone street").
 - Write as a single flowing paragraph, 4-8 sentences, under 60 words.
-- Props/objects are fine but describe them with concrete visual detail (material, color, shape: e.g. "a thick, gnarled wooden cudgel, dark with age" NOT "a heavy wooden club").
-- Actions involving props must be SLOW or static: the character "holds" or "raises" an object — NEVER swings, strikes, throws, spins, or moves it dynamically. Fast object motion produces distorted renders.
-- The action itself should focus on character posture, expression, and body movement — not on the object's motion."""
+- If the scene includes an object (prop, weapon, tool), describe it with concrete visual detail — material, color, texture, shape (e.g. "a thick, gnarled wooden cudgel, dark with age, its surface rough and splintered" NOT "a heavy wooden club"). Vague generic labels produce unrealistic renders."""
