@@ -16,4 +16,4 @@ For the visual_prompt, follow these requirements:
 - Lighting/atmosphere in 2-4 words (e.g., "warm golden hour light", "dim candlelit room", "foggy morning mist").
 - Background should be simple (e.g., "a grassy field", "a wooden cabin interior", "a cobblestone street").
 - Write as a single flowing paragraph, 4-8 sentences, under 60 words.
-- CRITICAL — Do NOT include handheld objects in the frame (weapons, tools, props). LTX produces unrealistic renders of objects held by a character. Instead, reframe: use a CLOSE-UP of the character's face and expression, with their body posture and clenched fists implying the action. Let the narration carry the object detail; the visual prompt should focus purely on the character's physical and emotional state."""
+- If the scene involves an object (prop, weapon, tool), describe it with concrete visual detail — material, color, texture, shape (e.g. "a thick, gnarled wooden cudgel, dark with age, its surface rough and splintered" NOT "a heavy wooden club"). A reference image will be generated from this description to guide the video model."""
